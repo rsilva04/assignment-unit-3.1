@@ -2,7 +2,7 @@ console.log('****** Array Practice *******');
 
 // 1. Creating arrays
 console.log('--- 1. Practice creating arrays ---');
-
+speechSynthesis
 // Example: Array of animals
 let animalArray = ['fish', 'cat', 'bird', 'dog'];
 console.log('Animals are: ', animalArray);
